@@ -1,0 +1,932 @@
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 154-081-773
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:41] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:41] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:42] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:50] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:58] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:11:59] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:12:15] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:12:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:13:15] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:13:15] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:13:21] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:13:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:20:24] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:20:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:38] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:38] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:40] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:52] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:21:52] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:22:20] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:22:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:22:21] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:22:22] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:23:40] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:23:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:23:41] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:23:42] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:24:23] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:24:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:27] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:38] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:39] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:40] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:41] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 17:29:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:01:26] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:01:30] "[35m[1mGET /index HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/config.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:02:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:02:53] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:02:53] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:03:04] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:03:04] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:03:09] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:03:09] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:03:13] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:04:36] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:04:36] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+ERROR app.py 14 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:08] "GET / HTTP/1.1" 200 -
+ERROR app.py 14 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:08] "GET /favicon.ico HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:33] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:33] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:05:35] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:06:53] "OPTIONS /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:06:53] "POST /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:07:54] "OPTIONS /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:07:54] "POST /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:07:59] "POST /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:08:12] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:08:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:08:14] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:08:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:08:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:09:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:09:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:10:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:10:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:13] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:24] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:25] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:34] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:49] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:11:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:14:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:14:39] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:14:46] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:14:47] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 18:15:01] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:47:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:47:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:30] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:30] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:32] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:32] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:39] "OPTIONS /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:39] "POST /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:51] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:58] "OPTIONS /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:58] "POST /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:51:59] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:04] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:04] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:07] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:08] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:08] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:09] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:10] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:10] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:13] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:13] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:14] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:16] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:17] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:17] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:18] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:22] "OPTIONS /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:22] "POST /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:25] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:28] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:28] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 19:52:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:16] "OPTIONS /messageDetail HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:16] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:18] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:19] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:23] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:23] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:24] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 20:26:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:48] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:48] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:54] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:54] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:14:58] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:20] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:20] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:22] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:25] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:25] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:27] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:27] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:28] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:29] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:32] "OPTIONS /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:32] "POST /myMessage2 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:34] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:38] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:15:38] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:16:41] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:16:41] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:16:43] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:24] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:24] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:30] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:30] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:47] "OPTIONS /changePass HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:47] "POST /changePass HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:54] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:18:54] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:19:22] "OPTIONS /changePass HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:19:22] "POST /changePass HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/common/_init_.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:21:07] "OPTIONS /changePass HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [08/Jul/2021 21:21:07] "POST /changePass HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:48:52] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:16] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:16] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:20] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:39] "OPTIONS /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:39] "POST /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:44] "POST /register HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:53] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:53] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:55] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:49:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:51:48] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:51:48] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:52:48] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:52:48] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:54] "OPTIONS /createMessage HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:54] "POST /createMessage HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:54] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:54] "[35m[1mPOST /messageDetail HTTP/1.1[0m" 500 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:58] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:59] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 10:54:59] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:47] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:47] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:48] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:49] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:03:50] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:10] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:10] "[35m[1mPOST /messageDetail HTTP/1.1[0m" 500 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:13] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:15] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:48] "OPTIONS /createMessage HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:48] "POST /createMessage HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:48] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:48] "[35m[1mPOST /messageDetail HTTP/1.1[0m" 500 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:50] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:04:51] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:24] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:25] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:25] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:26] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:27] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:05:28] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:13] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:13] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:23] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:24] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:24] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:30] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:33] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:33] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:50] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:51] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:51] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:55] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:06:55] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:08:16] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:08:59] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:09:11] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:09:11] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:09:18] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:09:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:10:12] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:10:12] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:11:18] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:11:44] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:11:45] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:12:18] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:13:10] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:13:49] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:08] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:08] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:23] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:24] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:28] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:14:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:15:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:15:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:17:37] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:17:37] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:17:41] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:12] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:13] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:13] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:16] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:21:16] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:33] "OPTIONS /changeAvatar HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:33] "POST /changeAvatar HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:45] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:45] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:46] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:22:47] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:23:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:23:38] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:23:38] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:23:39] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:23:39] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:24:26] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:27:10] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:27:43] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:27:44] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:27:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:28:13] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:28:29] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:32:47] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:33:39] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:34:52] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:50:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:24] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:34] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:34] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:43] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:44] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:51:50] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:52:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:52:38] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:03] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:14] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:14] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:16] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:54:35] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:24] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:25] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:25] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:26] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:27] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:27] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:28] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:29] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:29] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:29] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:30] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 11:55:30] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:01:23] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:01:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:01:54] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:03:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:03:57] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:04:22] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:06:05] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:21:50] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:22:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:22:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:05] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:16] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:16] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:18] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:50] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:42:50] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:43:00] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:43:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:24] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:30] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:40] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:40] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:41] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:44:42] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:35] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:35] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:36] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:45:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:46:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:47:05] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:47:05] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:47:06] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:47:07] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:48:40] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:49:11] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:49:19] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:49:28] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:50:39] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:50:39] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:51:04] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:51:04] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:52:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:52:48] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:53:56] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:53:56] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:53:57] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:53:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 12:53:58] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:04:56] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:05:03] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:05:03] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:06:23] "OPTIONS /login HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:06:24] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:06:25] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:06:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:11:25] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:11:25] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:11:35] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:11:35] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:13:04] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:14:06] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:15:00] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:15:16] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:15:16] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:16:21] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:16:21] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:16:48] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:16:48] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:19:19] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:19:19] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:21:08] "OPTIONS /login HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:21:08] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:07] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:19] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:23:19] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:08] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:10] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:17] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:17] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:19] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:24:19] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:27:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:27:32] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:27:32] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:27:34] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:27:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:34] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:41] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:41] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:43] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:28:43] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:31:21] "OPTIONS /login HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:31:21] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:31:23] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:31:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:33:06] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:33:13] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:33:13] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:33:14] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:33:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:34:38] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:34:49] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:35:48] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:46:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:47:06] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:47:55] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:52:01] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:52:01] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:52:04] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:52:17] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:52:17] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:56:18] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:56:27] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225  * Detected change in '/Users/zhaojiaming/Downloads/bbs_rectify/controller/login_related.py', reloading
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:57:02] "[35m[1mPOST /login HTTP/1.1[0m" 500 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:55] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:55] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:57] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 13:59:57] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:00] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:00] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:40] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:40] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:46] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:00:46] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:05] "OPTIONS /changeAvatar HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:05] "POST /changeAvatar HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:12] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:12] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:14] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:14] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:01:53] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:08] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:08] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:43] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:43] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:45] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:45] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:02:49] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:21] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:21] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:22] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:22] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:23] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:24] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:24] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:32] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:33] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:35] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:35] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:37] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:38] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:38] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:41] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:06:41] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:09] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:09] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:11] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:11] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:13] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:13] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:17] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:17] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:18] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:18] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:21] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:22] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:24] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:14:24] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:31] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:31] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:36] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:36] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:38] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:15:38] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:16:02] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:16:02] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:16:13] "OPTIONS /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:16:13] "POST /personal HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:18:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:18:46] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:18:57] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:18:57] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:22:35] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:22:42] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:22:45] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [09/Jul/2021 14:22:59] "OPTIONS /index HTTP/1.1" 200 -
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 13:26:29] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 13:26:35] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 13:26:35] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py 225  * Restarting with stat
+WARNING _internal.py 225  * Debugger is active!
+INFO _internal.py 225  * Debugger PIN: 118-778-730
+DEBUG connection.py 234 new_auth_plugin: caching_sha2_password
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:08] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:13] "OPTIONS /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:13] "POST /login HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:15] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:15] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:16] "OPTIONS /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:16] "GET /myMessage1/1 HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:18] "GET /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:20] "OPTIONS /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:20] "POST /messageDetail HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:22] "OPTIONS /index HTTP/1.1" 200 -
+INFO _internal.py 225 127.0.0.1 - - [11/Jul/2021 14:03:22] "GET /index HTTP/1.1" 200 -
